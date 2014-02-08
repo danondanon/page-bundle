@@ -1,0 +1,16 @@
+{
+    "name": "cms/page-bundle",
+    "type": "cms-bundle",
+    "description": "Page bunlde",
+    "keywords": ["tag", "tag", "tag"],
+    "authors": [
+        {
+            "name": "Dawid Koczanowski",
+            "email": "dawid@koczanowski.pl"
+        }
+    ],      
+    "require": {
+        "php": ">=5.3.5"
+    }
+    
+}
