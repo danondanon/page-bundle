@@ -19,5 +19,5 @@
     "autoload": {
         "psr-0": { "Cms\\Bundle\\PageBundle": "" }
     },
-    "target-dir": "Cms/Bundle/PageBundle",
+    "target-dir": "Cms/Bundle/PageBundle"
 }
